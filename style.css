@@ -1025,6 +1025,22 @@ input:checked + .slider:before {
     .search__games {
         height: 100px;
     }
+
+    .main__slot__title {
+        top: 40px;
+    }
+
+    .popular__slot {
+        top: 50px;
+        left: 650px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .popular__slot {
+        top: 50px;
+        left: 500px;
+    }
 }
 
 @media screen and (max-width: 840px) {
@@ -1062,6 +1078,15 @@ input:checked + .slider:before {
     .slots__container {
         margin-top: 260px;
         height: calc(100% - 420px)
+    }
+
+    .main__slot__title {
+        top: 40px;
+    }
+
+    .popular__slot {
+        top: 50px;
+        left: 450px;
     }
 }
 
