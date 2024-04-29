@@ -77,7 +77,6 @@ body, html {
 }
 
 .overlay__chat__middle {
-    box-shadow: 0px 100px 50px -50px rgba(22, 27, 32, 1) inset;
     position: absolute;
     height: 100px;
     width: 100%;
@@ -557,10 +556,6 @@ input:checked + .slider__chat:before {
         background-color: #ffd010;
         box-shadow: 0px 0px 10px 0.1px #ffd010;
     }
-}
-
-.progress__tab:nth-child(-n+3) {
-    background-color: #ffd010;
 }
 
 .output__left {
