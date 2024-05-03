@@ -16,4 +16,4 @@ The main page of the casino is presented, displaying various types of slots and 
 [Slots Backend Repository](https://github.com/vovgoo/Slots-backend)
 
 ## Design Credits 🎨
-Design by [Bang Bang Studio(https://dribbble.com/shots/21595195-ELON-Sports-Betting-and-Casino), Romanov for Bang Bang Studio 🎨
+Design by [Bang Bang Studio](https://dribbble.com/shots/21595195-ELON-Sports-Betting-and-Casino), Romanov for Bang Bang Studio 🎨
